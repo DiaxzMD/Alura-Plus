@@ -42,20 +42,17 @@ body {
 .container__titulo {
     font-size: 28px;
     font-weight: 700;
-    margin-bottom: 2rem;
-    width: 700px;
 
 }
 
 .container__botao__primario {
     background-color: var(--botao-azul);
     border-radius: 10px;
-    padding: 1rem;
+    padding: 1em;
     color: var(--cor-principal);
     display: block;
     text-decoration: none;
     margin-bottom: 1rem;
-    margin-top: 2rem;
 }
 
 .container__botao__secundario {
@@ -78,7 +75,7 @@ body {
 }
 
 .container__caixa__principal {
-    margin: 0 6rem 10rem;
+    margin: 0 6em;
 }
 
 .secundario {
@@ -87,7 +84,7 @@ body {
 }
 
 .descricao__titulo {
-    font-size: 2.4rem;
+    font-size: 2.4em;
 }
 
 .container__img__secundaria {
@@ -164,3 +161,4 @@ body {
     margin: 10px;
 
 }
+
