@@ -40,10 +40,9 @@ body {
 }
 
 .container__titulo {
-    font-size: 40px;
+    font-size: 28px;
     font-weight: 700;
     margin-bottom: 2rem;
-    margin-left: 60px;
     width: 700px;
 
 }
@@ -163,4 +162,5 @@ body {
     display: flex;
     justify-content: center;
     margin: 10px;
+
 }
